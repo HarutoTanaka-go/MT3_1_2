@@ -8,6 +8,7 @@
 const char kWindowTitle[] = "LE2D_15_タナカ_ハルト";
 
 
+
 struct Sphere {
 	// 中心点
 	Vector3 center;
